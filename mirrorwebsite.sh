@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#https://www.scriptinglibrary.com
 # This script creates a local copy of a  website using WGET
 
 read -p 'URL: ' URL
