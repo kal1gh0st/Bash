@@ -1,12 +1,11 @@
 #!/bin/bash
-#https://www.scriptinglibrary.com
 video_list="videos.txt"
 total=$(wc -l $video_list | awk '{ print $1 }')
 counter=0
 help="Please, install it: 
 'sudo apt-get install youtube-dl' or 
 'brew install youtube-dl'
-for more info: https://github.com/rg3/youtube-dl"
+for more info: https://github.com/kal1gh0st/youtube-dl"
 
 if command -v youtube-dl >/dev/null 2>&1 ; then
 	    echo "$(date) Download Started..."
