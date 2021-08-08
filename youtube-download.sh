@@ -1,4 +1,5 @@
 #!/bin/bash
+#kal1gh0st
 video_list="videos.txt"
 total=$(wc -l $video_list | awk '{ print $1 }')
 counter=0
