@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#Paolo Frigo, https://www.scriptinglibrary.com
 
 # SETTINGS
 NETWORK="" #123.3.2.1/24
