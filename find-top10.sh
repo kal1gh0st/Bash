@@ -1,6 +1,6 @@
   
 #!/bin/bash
-#https://www.scriptinglibrary.com
+
 #THIS SCRIPT RETURNS THE TOP N IP IN THE IIS LOGS FOLDER 
 TOP=10   
 
