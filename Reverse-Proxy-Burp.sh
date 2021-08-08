@@ -1,7 +1,7 @@
 #bin/bash!
 
-#iInf=$1
-#wInf=$2
+iInf=$1
+wInf=$2
 
 COMMAND='which 0'
 DIR=dirname $COMMAND"/../wifi"
