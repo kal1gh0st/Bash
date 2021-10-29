@@ -3,7 +3,7 @@
 Scripting Library is a collection of scripts and experiences shared by IT Pros, Developers, DevOps and Geeks across Linux and Windows OS with BaSH, PowerShell and Python from all over the world.
 ![immagine](https://user-images.githubusercontent.com/56889513/117018797-2012cc80-acf5-11eb-93c9-1ba77e06ef00.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# hackerEnv [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?label=Tweet%20it&amp;style=social)](https://twitter.com/intent/tweet?text=hackerEnv%20-%20an%20automation%20tool%20that%20quickly%20and%20easily%20sweep%20ips%20and%20scan%20ports,%20vulnerablities%20and%20exploit%20them%20and%20generates%20a%20report.%20by%20@abdulr7mann%20https://github.com/abdulr7mann/hackerEnv.git&hashtags=security,hacking,redteam,pentester,pentest,kali,kali-linux)
+# hackerEnv 
 hackerEnv is an automation tool that quickly and easily sweep IPs and scan ports, vulnerabilities and exploit them. Then, it hands you an interactive shell for further testing. Also, it generates HTML and docx reports.
 It uses other tools such as nmap, nikto, metasploit and hydra. Works in kali linux and Parrot OS.<br />
 This tool was NOT coded by a professional, I do not know what i am doing. 
@@ -12,7 +12,7 @@ This tool was NOT coded by a professional, I do not know what i am doing.
 - Performed only when you have authorization to do.
 ```
 **This was a school project, which means i am not gonna work on it any more. However, In the faaaaaaaaaaar future, I will make a python framework that does better job than this shitshow.**
-Greetz to @R2k4n
+Greetz to @kk
 ## Update Kali/Parrot
 ```
 apt update; apt upgrade -y
@@ -21,7 +21,7 @@ apt update; apt upgrade -y
 ### Download hackerEnv
 ```
 cd /opt/
-git clone https://github.com/abdulr7mann/hackerEnv.git
+git clone https://github.com/kal1gh0st/Bash/hackerEnv.git
 cd /opt/hackerEnv
 chmod +x hackerEnv
 ```
