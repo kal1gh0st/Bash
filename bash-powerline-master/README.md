@@ -45,19 +45,3 @@ font patching mechanism from the original Powerline does not work with the
 bitmap font (Apple Monaco without anti-aliasing) I use on non-retina screens.
 I'd rather stick with existing unicode symbols.
 
-
-## See also
-
-* [zsh-powerline](https://github.com/riobard/zsh-powerline): Same thing but for
-    Zsh.
-* [powerline](https://github.com/Lokaltog/powerline): Unified Powerline
-  written in Python. This is the future of all Powerline derivatives.
-* [vim-powerline](https://github.com/Lokaltog/vim-powerline): Powerline in Vim
-  writtien in pure Vimscript. Deprecated.
-* [tmux-powerline](https://github.com/erikw/tmux-powerline): Powerline for Tmux
-  written in Bash script. Deprecated.
-* [powerline-shell](https://github.com/milkbikis/powerline-shell): Powerline for
-  Bash/Zsh/Fish implemented in Python. Might be merged into the unified
-  Powerline.
-* [emacs powerline](https://github.com/milkypostman/powerline): Powerline for
-  Emacs
